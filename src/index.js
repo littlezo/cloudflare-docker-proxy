@@ -14,6 +14,7 @@ const routes = {
   "k8s.stye.cn": "https://registry.k8s.io",
   "ghcr.stye.cn": "https://ghcr.io",
   "cloudsmith.stye.cn": "https://docker.cloudsmith.io",
+  "ecr.stye.cn": "https://public.ecr.aws",
 
   // staging
   "docker-staging.stye.cn": dockerHub,
